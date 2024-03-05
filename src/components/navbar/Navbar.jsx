@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 import ThemeToggle from "../themeToggle/ThemeToggle";
-import AuthLinks from "../authLinks/authLinks";
+import AuthLinks from "../authLinks/AuthLinks";
 
 const Navbar = () => {
     return (
