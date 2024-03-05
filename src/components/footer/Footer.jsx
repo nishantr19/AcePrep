@@ -17,7 +17,7 @@ const Footer = () => {
           the recruitment processes. Gain insights into the questions asked,
            the challenges 
           faced, and the strategies employed to secure coveted positions.Whether 
-          you're targeting tech giants, financial institutions, healthcare
+          you are targeting tech giants, financial institutions, healthcare
            providers, or startups, AcePrep caters to a diverse range of 
            industries. Access industry-specific insights to tailor your 
            preparation according
